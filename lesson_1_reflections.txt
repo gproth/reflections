@@ -1,0 +1,2 @@
+Reflections 1:
+it allowed to easilly spot a difference in the code that was causing the error where the code worked fine before.
